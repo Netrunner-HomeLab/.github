@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logos/netrunner-wordmark.png" alt="Netrunner Logo" width="600"/>
+  <img src="./netrunner-wordmark.png" alt="Netrunner Logo" width="600"/>
 </p>
 
 🌆⚡ The Ultimate Netrunner Homelab Experience ⚡🌆
